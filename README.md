@@ -6,7 +6,7 @@ Just so real
 delay(1500);
 
 ### Why does a resistor need an LED?
-To restrict the amount of current that flows through the LED so that it won’t destroy the LED light. 
+It is not neccsary to include an LED with the resistor, but to run the LED properly, a resistor is needed to restrict the amount of current that flows through the LED so that it won’t destroy the LED light. 
 
 ### Why is a breadboard useful?
 The breadboard connects electronic circuit without permanently soldering, making it easier to prototype. 
